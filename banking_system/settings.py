@@ -28,7 +28,7 @@ SECRET_KEY = '&k(-=jt!8&p6ed^o3m#032hinl*owkezsd0lkf@0#ohmcmg(yk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','sparksinternational.netlify.app']
+ALLOWED_HOSTS = ['127.0.0.1','.herokuapp.com']
 
 
 # Application definition
